@@ -512,6 +512,16 @@ VITE_API_BASE_URL=http://localhost:8081
 
 ---
 
+# 📸 Screenshots
+
+- The following screenshots showcase the AI Resume Analyzer interface and result dashboard.
+
+- They illustrate the upload form, job description input, and AI analysis output in action.
+
+- Each image demonstrates the app’s clean, centered layout and color‑coded result cards for clarity.
+
+---
+
 # 🚀 Future Enhancements
 
 The project can be extended with:
