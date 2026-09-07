@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f9f9f9;
+}
+
+.navbar {
+  background: #222;
+  color: white;
+  padding: 1rem 2rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar h1 {
+  font-size: 1.5rem;
+  letter-spacing: 0.5px;
+}
+
+
+.home, .analysis {
+  padding: 2rem;
+}
+
+.upload-section, .job-desc-section {
+  margin-bottom: 1rem;
+}
+
+button {
+  padding: 0.7rem 1.2rem;
+  background: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:disabled {
+  background: #aaa;
+}
+
+.score-card {
+  background: #eee;
+  padding: 1rem;
+  margin: 0.5rem 0;
+}
+
+.skill-card {
+  display: inline-block;
+  margin: 0.3rem;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+.skill-card.found {
+  background: #d4edda;
+}
+
+.skill-card.missing {
+  background: #f8d7da;
+}
+
+.spinner {
+  animation: spin 1s linear infinite;
+  margin-right: 8px;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
