@@ -144,7 +144,7 @@ ai-resume-analyzer/
 │   │   └── main/
 │   │       ├── java/
 │   │       │   └── com/
-│   │       │       └── yourpackage/
+│   │       │       └── resumeanalyzer/
 │   │       │           └── resumeanalyzer/
 │   │       │               ├── controller/
 │   │       │               │   └── ResumeController.java
@@ -186,7 +186,6 @@ ai-resume-analyzer/
 └── README.md
 ```
 
-> **Note:** Replace `yourpackage` in the structure above with the actual Java package name used in your project.
 
 ---
 
@@ -219,12 +218,9 @@ git --version
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
+git clone https://github.com/manikandan4411/ai-resume-analyzer.git
 cd ai-resume-analyzer
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
-
 ---
 
 # 🔧 Backend Setup
