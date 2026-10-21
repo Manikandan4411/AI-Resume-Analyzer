@@ -581,11 +581,13 @@ Google Gemini API
 
 ---
 
-# 📜 License
+## License
 
-This project is licensed under the **MIT License**.
+Copyright © 2026 Manikandan S. All Rights Reserved.
 
-You are free to use, modify, and distribute this project for personal and commercial purposes, subject to the terms of the license.
+This project is available for viewing and personal educational reference only. Copying, reusing, modifying, redistributing, or commercially using the source code without prior written permission is prohibited.
+
+See the [LICENSE](LICENSE) file for the full terms.
 
 ---
 
